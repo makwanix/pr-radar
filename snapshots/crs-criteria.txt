@@ -1,0 +1,409 @@
+Comprehensive Ranking System (CRS) criteria
+The Comprehensive Ranking System (CRS) is a points-based system that we use to assess and score your profile and rank it in the Express Entry pool.
+On this page
+Core/human capital factors
+Spouse or common-law partner factors
+Skill transferability factors
+Additional points
+Changes coming to jobs offers and how we calculate your score
+As of November 3, 2026, we’re:
+changing how points are awarded for Canadian work experience and valid job offers
+removing Labour Market Impact Assessment (LMIA) requirements for all job offers
+The system will recalculate your existing profile when the changes take effect, which could take up to two weeks. During this time we’ll pause invitation rounds and will start again when it’s complete.
+If you have a valid job offer and haven’t included it in your profile
+If you have a valid job offer without an LMIA and haven’t included it yet, you should update your profile.
+What isn’t changing
+If having a valid job offer is part of your eligibility criteria, this won’t change. This includes:
+the Federal Skilled Trades Program
+the Federal Skilled Worker Program
+some streams under provincial nominee programs
+You should still include the details of any job offers in your Express Entry profile so you stay eligible for these programs.
+A. Core/human capital factors
+You will earn points as if you don’t have a spouse or partner if:
+they are not coming with you to Canada, or
+they are a Canadian citizen or permanent resident
+Factors
+Points with a spouse or common-law partner
+Points without a spouse or common-law partner
+Age
+100
+110
+Level of education
+140
+150
+Official languages proficiency
+150
+160
+Canadian work experience Info
+70
+80
+Points breakdown of Core/human capital factors
+With a spouse or common-law partner: Maximum 460 points total
+Without a spouse or common-law partner: Maximum 500 points total
+Age
+With a spouse or common-law partner
+(Maximum 100 points)
+Without a spouse or common-law partner
+(Maximum 110 points)
+17 years of age or less
+0
+18 years of age
+90
+99
+19 years of age
+95
+105
+20 to 29 years of age
+100
+110
+30 years of age
+95
+105
+31 years of age
+90
+99
+32 years of age
+85
+94
+33 years of age
+80
+88
+34 years of age
+75
+83
+35 years of age
+70
+77
+36 years of age
+65
+72
+37 years of age
+60
+66
+38 years of age
+55
+61
+39 years of age
+50
+55
+40 years of age
+45
+50
+41 years of age
+35
+39
+42 years of age
+25
+28
+43 years of age
+15
+17
+44 years of age
+5
+6
+45 years of age or more
+0
+Level of Education
+With a spouse or common-law partner
+(Maximum 140 points)
+Without a spouse or common-law partner
+(Maximum 150 points)
+Less than secondary school (high school)
+0
+Secondary diploma (high school graduation)
+28
+30
+One-year degree, diploma or certificate from a university, college, trade or technical school, or other institute
+84
+90
+Two-year program at a university, college, trade or technical school, or other institute
+91
+98
+Bachelor's degree OR a three or more year program at a university, college, trade or technical school, or other institute
+112
+120
+Two or more certificates, diplomas, or degrees. One must be for a program of three or more years
+119
+128
+Master's degree, OR professional degree needed to practice in a licensed profession (For “professional degree,” the degree program must have been in: medicine, veterinary medicine, dentistry, optometry, law, chiropractic medicine, or pharmacy.)
+126
+135
+Doctoral level university degree (Ph.D.)
+140
+150
+Official languages proficiency - first official language
+Maximum points for each ability (reading, writing, speaking and listening):
+32 with a spouse or common-law partner
+34 without a spouse or common-law partner
+Canadian Language Benchmark (CLB) level per ability
+With a spouse or common-law partner
+(Maximum 128 points)
+Without a spouse or common-law partner
+(Maximum 136 points)
+Less than CLB 4
+0
+CLB 4 or 5
+6
+CLB 6
+8
+9
+CLB 7
+16
+17
+CLB 8
+22
+23
+CLB 9
+29
+31
+CLB 10 or more
+32
+34
+Official languages proficiency - second official language
+Maximum points for each ability (reading, writing, speaking and listening):
+6 with a spouse or common-law partner (up to a combined maximum of 22 points)
+6 without a spouse or common-law partner (up to a combined maximum of 24 points)
+Canadian Language Benchmark (CLB) level per ability
+With a spouse or common-law partner
+(Maximum 22 points)
+Without a spouse or common-law partner
+(Maximum 24 points)
+CLB 4 or less
+0
+CLB 5 or 6
+1
+CLB 7 or 8
+3
+CLB 9 or more
+6
+Canadian work experience
+With a spouse or common-law partner
+(Maximum 70 points)
+Without a spouse or common-law partner
+(Maximum 80 points)
+None or less than a year
+0
+1 year
+35
+40
+2 years
+46
+53
+3 years
+56
+64
+4 years
+63
+72
+5 years or more
+70
+80
+B. Spouse or common-law partner factors (if applicable)
+Factors
+Points
+(Maximum 40 points)
+Level of education
+10
+Official language proficiency
+20
+Canadian work experience Info
+10
+Canadian work experience means working for a Canadian employer in Canada. Working remotely counts if you were physically in Canada.
+Points breakdown of Spouse or common-law partner factors (if applicable)
+Spouse’s or common-law partner’s level of education
+With spouse or common-law partner
+(Maximum 10 points)
+Without spouse or common-law partner
+(Does not apply)
+Less than secondary school (high school)
+0
+n/a
+Secondary school (high school graduation)
+2
+n/a
+One-year program at a university, college, trade or technical school, or other institute
+6
+n/a
+Two-year program at a university, college, trade or technical in school, or other institute
+7
+n/a
+Bachelor's degree OR a three or more year program at a university, college, trade or technical school, or other institute
+8
+n/a
+Two or more certificates, diplomas, or degrees. One must be for a program of three or more years
+9
+n/a
+Master's degree, or professional degree needed to practice in a licensed profession (For “professional degree”, the degree program must have been in: medicine, veterinary medicine, dentistry, optometry, law, chiropractic medicine, or pharmacy.)
+10
+n/a
+Doctoral level university degree (PhD)
+10
+n/a
+Note: (n/a) means that this factor does not apply in this case.
+Spouse's or common-law partner's official languages proficiency - first official language
+Canadian Language Benchmark (CLB) level per ability (reading, writing, speaking and listening)
+Maximum 20 points for section
+Maximum 5 points per ability
+Without spouse or common-law partner
+(Does not apply)
+CLB 4 or less
+0
+n/a
+CLB 5 or 6
+1
+n/a
+CLB 7 or 8
+3
+n/a
+CLB 9 or more
+5
+n/a
+Note: (n/a) means that this factor does not apply in this case.
+Spouse's Canadian work experience
+Maximum 10 points
+Without spouse or common-law partner
+(Does not apply)
+None or less than a year
+0
+n/a
+1 year
+5
+n/a
+2 years
+7
+n/a
+3 years
+8
+n/a
+4 years
+9
+n/a
+5 years or more
+10
+n/a
+Note: (n/a) means that this factor does not apply in this case.
+C. Skill Transferability factors
+Education
+Points
+(Maximum 50 points)
+With good/strong official languages proficiency and a post-secondary degree
+50
+With Canadian work experience and a post-secondary degree
+50
+Foreign work experience
+Points
+(Maximum 50 points)
+With good/strong official languages proficiency (Canadian Language Benchmark [CLB] level 7 or higher) and foreign work experience
+50
+With Canadian work experience and foreign work experience
+50
+Certificate of qualification (for people in trade occupations)
+Points
+(Maximum 50 points)
+With good/strong official languages proficiency and a certificate of qualification
+50
+Points breakdown of Skill transferability factors
+For skill transferability factors: Maximum of 100 points
+Education
+With good official language proficiency (Canadian Language Benchmark Level [CLB] 7 or higher) and a post-secondary degree
+Points for CLB 7 or more on all first official language abilities, with one or more under CLB 9
+(Maximum 25 points)
+Points for CLB 9 or more on all four first official language abilities
+(Maximum 50 points)
+Secondary school (high school) credential or less
+0
+Post-secondary program credential of one year or longer
+13
+25
+Two or more post-secondary program credentials AND at least one of these credentials was issued on completion of a post-secondary program of three years or longer
+25
+50
+A university-level credential at the master’s level or at the level of an entry-to-practice professional degree for an occupation listed in the National Occupational Classification matrix at Skill Level A for which licensing by a provincial regulatory body is required
+25
+50
+A university-level credential at the doctoral level
+25
+50
+With Canadian work experience and a post-secondary degree
+Points for education + 1 year of Canadian work experience
+(Maximum 25 points)
+Points for education + 2 years or more of Canadian work experience
+(Maximum 50 points)
+Secondary school (high school) credential or less
+0
+Post-secondary program credential of one year or longer
+13
+25
+Two or more post-secondary program credentials AND at least one of these credentials was issued on completion of a post-secondary program of three years or longer
+25
+50
+A university-level credential at the master’s level or at the level of an entry-to-practice professional degree for an occupation listed in the National Occupational Classification matrix at Skill Level A for which licensing by a provincial regulatory body is required
+25
+50
+A university-level credential at the doctoral level
+25
+50
+Foreign work experience – With good official language proficiency (Canadian Language Benchmark Level [CLB] 7 or higher)
+Years of experience
+Points for foreign work experience + CLB 7 or more on all first official language abilities, one or more under 9
+(Maximum 25 points)
+Points for foreign work experience + CLB 9 or more on all four first official language abilities
+(Maximum 50 points)
+No foreign work experience
+0
+1 or 2 years of foreign work experience
+13
+25
+3 years or more of foreign work experience
+25
+50
+Foreign work experience – With Canadian work experience
+Years of experience
+Points for foreign work experience + 1 year of Canadian work experience
+(Maximum 25 points)
+Points for foreign work experience + 2 years or more of Canadian work experience
+(Maximum 50 points)
+No foreign work experience
+0
+1 or 2 years of foreign work experience
+13
+25
+3 years or more of foreign work experience
+25
+50
+Certificate of qualification (trade occupations) – With good official language proficiency (Canadian Language Benchmark Level [CLB] 5 or higher)
+Points for certificate of qualification + CLB 5 or more on all first official language abilities, one or more under 7
+(Maximum 25 points)
+Points for certificate of qualification + CLB 7 or more on all four first official language abilities
+(Maximum 50 points)
+With a certificate of qualification
+25
+50
+D. Additional points
+Factor
+Maximum points per factor
+Brother or sister living in Canada (18 years or older, citizen or permanent resident)
+15
+French language skills
+50
+Post-secondary education in Canada
+30
+Provincial or territorial nomination
+600
+Breakdown of additional points
+Additional points
+Maximum 600 points
+Brother or sister living in Canada who is a citizen or permanent resident of Canada
+15
+Scored NCLC 7 or higher on all four French language skills and scored CLB 4 or lower in English (or didn’t take an English test)
+25
+Scored NCLC 7 or higher on all four French language skills and scored CLB 5 or higher on all four English skills
+50
+Post-secondary education in Canada - credential of one or two years
+15
+Post-secondary education in Canada - credential three years or longer
+30
+Provincial or territorial nomination
+600
+Page details
+2026-10-16

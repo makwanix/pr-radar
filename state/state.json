@@ -1,0 +1,135 @@
+{
+  "feeds": {
+    "ircc-news": {
+      "fails": 0,
+      "last_ok": "2026-10-29T03:16:57+00:00",
+      "seen": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/03/canada-launches-measures-to-support-those-impacted-by-domestic-natural-disasters.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/04/celebrating-canadian-citizenship-unity-belonging-and-building-our-nation-together.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/04/filling-labour-gaps-in-smaller-communities-by-accelerating-permanent-residence-for-33000-workers.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/04/minister-diab-concludes-citizenship-week-2026-by-welcoming-new-canadians.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/04/minister-diab-to-participate-in-a-special-citizenship-ceremony-for-citizenship-week.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/04/understanding-the-one-time-in-canada-workers-initiative.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/building-the-workforce-needed-to-deliver-more-homes-in-halifax.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/canada-and-global-partners-take-action-to-advance-migration-priorities.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/canada-announces-new-international-migration-capacity-building-projects.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/canada-strengthens-indo-pacific-ties-through-changes-to-visa-requirements-for-eligible-travellers-from-indonesia-and-malaysia.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/canada-strengthens-indopacific-ties-through-changes-to-visa-requirements-for-eligible-travellers-from-indonesia-and-malaysia.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/canada-strengthens-regulation-of-immigration-and-citizenship-consultants.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/minister-diab-highlights-sport-investments-from-spring-economic-update-2026-canada-strong-for-all-to-build-stronger-and-safer-communities.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/minister-diab-to-highlight-housing-investments-from-the-spring-economic-update-2026.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/minister-diab-to-highlight-spring-economic-update-2026-sport-investments-in-timberlea.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/canada-marks-world-refugee-day-and-reflects-on-75-years-of-refugee-protection.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/canada-proposes-new-regulations-to-modernize-the-asylum-process-and-support-timely-decisions.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/canada-proposes-new-regulations-to-modernize-the-asylum-process-and-support-timely-decisions0.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/canada-strengthens-borders-while-supporting-economic-and-tourism-ties-with-saint-pierre-et-miquelon.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/canada-strengthens-borders-while-supporting-economic-and-tourism-ties-with-saint-pierre-et-miquelon0.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/federalprovincialterritorial-immigration-ministers-meet-to-discuss-sustainable-immigration.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/minister-diab-to-hold-media-availability-following-meeting-of-the-forum-of-ministers-responsible-for-immigration.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/minister-diab-to-participate-in-a-canada-day-citizenship-ceremony-in-ottawa.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/minister-diab-to-participate-in-a-canada-day-citizenship-ceremony-in-ottawa0.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/statement-by-minister-metlege-diab-on-canada-day.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/canada-and-manitoba-join-forces-to-give-new-momentum-to-francophone-immigration.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/canada-and-the-northwest-territories-join-forces-to-support-the-growth-of-francophone-communities.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/canada-expands-online-passport-renewal-to-all-eligible-adults.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/canada-expands-online-passport-renewal-to-all-eligible-adults0.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/minister-metlege-diab-and-parliamentary-secretary-koutrakis-to-make-an-announcement-in-vancouver.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/minister-metlege-diab-highlights-canada-child-benefit-payments-increasing-in-20262027.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/minister-metlege-diab-to-highlight-the-canada-child-benefits-more-generous-support-for-families.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/minister-metlege-diab-to-make-an-announcement-in-winnipeg.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/parliamentary-secretary-fragiskatos-to-announce-support-for-food-security-in-windsor.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/parliamentary-secretary-fragiskatos-to-make-an-announcement-in-toronto.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/peter-fragiskatos-mp-highlights-launch-of-national-food-security-strategy.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/projects-aimed-at-supporting-francophone-minority-communities.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/projects-aimed-at-supporting-francophone-minority-communities0.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/09/canada-is-supporting-new-projects-to-promote-francophone-immigration-and-strengthen-francophone-minority-communities.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/09/minister-metlege-diab-highlights-the-extension-of-federal-fuel-excise-tax-relief-on-gasoline-diesel-and-aviation-fuels-for-canadians.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/09/minister-metlege-diab-to-highlight-the-extension-of-the-federal-fuel-excise-tax-relief-on-gasoline-diesel-and-aviation-fuels-for-canadians.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/09/minister-metlege-diab-to-make-an-announcement-regarding-francophone-immigration-in-st-johns.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/09/projects-aimed-at-supporting-francophone-minority-communities.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/09/the-government-of-canada-extends-the-federal-fuel-excise-tax-relief-on-gasoline-diesel-and-aviation-fuels-for-canadians.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/canada-refocusing-express-entry-on-top-talent-that-drives-economic-growth.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/changes-to-express-entry-for-high-wage-occupations.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/minister-metlege-diab-highlights-new-productivity-mega-deduction-to-help-businesses-invest-grow-and-create-jobs-in-canada.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/minister-metlege-diab-to-highlight-new-productivity-mega-deduction-that-will-help-businesses-invest-grow-and-create-jobs-in-canada.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/minister-metlege-diab-to-make-an-announcement-in-kitchener.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/new-penalties-for-fraudulent-and-unauthorized-immigration-and-citizenship-representatives.html"
+      ]
+    }
+  },
+  "heartbeat": "2026-10-29T03:16:57+00:00",
+  "last_run": "2026-10-29T03:16:57+00:00",
+  "pages": {
+    "cec": {
+      "fails": 0,
+      "hash": "5299ad98be4cfcec14aff822ccbdc742b2884788bddc1bf90c0ec0e437cb1b13",
+      "last_ok": "2026-10-29T03:16:41+00:00",
+      "modified": "2026-10-16",
+      "since": "2026-10-29T03:16:41+00:00"
+    },
+    "crs-criteria": {
+      "fails": 0,
+      "hash": "a74602868244da323fc7662f98d84987a11b12dd9df3ae70483ee8c74e1038ec",
+      "last_ok": "2026-10-29T03:16:44+00:00",
+      "modified": "2026-10-16",
+      "since": "2026-10-29T03:16:44+00:00"
+    },
+    "ee-changes": {
+      "fails": 0,
+      "hash": "7998d3ef1e03932791bc142d50b7bdc918067e3e28c5d0b1310b1459c8684f4c",
+      "last_ok": "2026-10-29T03:16:39+00:00",
+      "modified": "2026-10-16",
+      "since": "2026-10-29T03:16:39+00:00"
+    },
+    "ee-rounds": {
+      "fails": 0,
+      "hash": "a770b7eae9980be2cf681ae5017f450b493f02b5ddbf9770ef34ef57a1162a7e",
+      "last_ok": "2026-10-29T03:16:50+00:00",
+      "modified": "2026-10-16",
+      "since": "2026-10-29T03:16:50+00:00"
+    },
+    "fee-changes": {
+      "fails": 0,
+      "hash": "c7270afe79cabaa0dc237dbdd6372e738907f1135a98a9197457764bf15ee922",
+      "last_ok": "2026-10-29T03:16:55+00:00",
+      "modified": null,
+      "since": "2026-10-29T03:16:55+00:00"
+    },
+    "high-wage": {
+      "fails": 0,
+      "hash": "afe113032754d80b76d826df1ef2dd236ac181b37553517e3a0f1f0583751dd2",
+      "last_ok": "2026-10-29T03:16:47+00:00",
+      "modified": "2026-10-16",
+      "since": "2026-10-29T03:16:47+00:00"
+    },
+    "oinp-owp": {
+      "fails": 0,
+      "hash": "9a117d9c0e79037046e8ad019097d88e96a9952f85307986a4644be738ccbe79",
+      "last_ok": "2026-10-29T03:16:56+00:00",
+      "modified": "2026-10-20",
+      "since": "2026-10-29T03:16:56+00:00"
+    },
+    "oinp-updates": {
+      "fails": 0,
+      "hash": "117ae7b448d680bcd2c832c1c2d5cc3225fc20fd7e9df08fbbc796dc4a8ed1c6",
+      "last_ok": "2026-10-29T03:16:56+00:00",
+      "modified": "2026-10-16",
+      "since": "2026-10-29T03:16:56+00:00"
+    },
+    "pgwp": {
+      "fails": 0,
+      "hash": "203e4867bc1076cf8bf5ca951a55f30b793414897c3af240e2c87b5028efc14b",
+      "last_ok": "2026-10-29T03:16:51+00:00",
+      "modified": "2026-06-24",
+      "since": "2026-10-29T03:16:51+00:00"
+    },
+    "wp-expired": {
+      "fails": 0,
+      "hash": "80c835cb13e0ae92edd808c0fbadb8863897992438edc64ad81d37ee2f239ffa",
+      "last_ok": "2026-10-29T03:16:54+00:00",
+      "modified": "2026-07-17",
+      "since": "2026-10-29T03:16:54+00:00"
+    }
+  },
+  "started": "2026-10-29T03:16:57+00:00"
+}

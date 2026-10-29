@@ -1,0 +1,142 @@
+2026 changes to points for Canadian work experience and job offers
+As of November 3, 2026, we’re changing how we award points under the Express Entry Comprehensive Ranking System (CRS) and job offer requirements.
+The system will recalculate points in existing profiles when the changes take effect, which could take up to two weeks. During this time we’ll pause invitation rounds and will start again when it’s complete.
+On this page
+Changes to CRS points
+Changes to job offers
+Federal Skilled Worker Program and Federal Skilled Trades Program applicants
+Changes to CRS points
+The Labour Market Integration factor is new in the CRS.
+It includes points for either:
+Canadian work experience (based on how long you worked) with extra points for work in eligible high-wage occupations
+a qualifying job offer in an eligible high-wage occupation
+You can only receive points for Canadian work experience or an eligible job offer, not both.
+What are high-wage occupations?
+Under Express Entry, a job is considered a high-wage occupation if the median wage of all people in Canada performing that job is at least 1.3 times higher than the average median wage of the overall Canadian work force.
+This is based on all the people in Canada working under the same National Occupational Classification (NOC).
+It is not determined based on a person’s specific job position.
+High-wage occupations are grouped into 3 levels using NOC codes and points are awarded based on those levels. Only jobs listed in those 3 high-wage occupation levels are eligible for high-wage occupation points or job offer points under the Labour Market Integration factor.
+Find out which jobs are eligible for these points under the Express Entry system.
+How the Labour Market Integration factor is calculated
+To calculate your score we compare the points you could receive from either your Canadian work experience or a qualifying job offer. You’ll get the score that gives you the higher number of CRS points.
+You can get a maximum of 150 points for the Labour Market Integration factor.
+Caption text
+Score options
+Points with a spouse or common-law partner
+Points without a spouse or common-law partner
+Canadian work experience
+140 points:
+70 for work-length
+70 for high-wage experience
+150 points:
+80 for work-length
+70 for high-wage experience
+Qualifying job offer
+100 points
+Canadian work experience points
+Canadian work experience points are the combination of work-length points and high-wage occupation points.
+Work-length points
+Work-length points are the same CRS points that are currently awarded for qualifying work experience in any TEER 0-3 NOC.
+The eligibility requirements for Canadian work experience are not changing.
+Length of Canadian work experience
+Points with a spouse or common-law partner (Maximum 70 points)
+Points without a spouse or common-law partner (Maximum 80 points)
+None or less than a year
+0
+1 year
+35
+40
+2 years
+46
+53
+3 years
+56
+64
+4 years
+63
+72
+5 years or more
+70
+80
+High-wage occupation points
+High-wage occupation points are extra CRS points we award for qualifying Canadian work experience you gained in eligible high-wage occupations.
+We award these points in addition to work-length points.
+To qualify, you must have at least 1 year (12 months or 1,560 hours) of qualifying Canadian work experience that:
+meets the existing requirements for qualifying Canadian work experience under Express Entry
+was gained in one or more eligible high-wage occupations
+Eligible work experience may be:
+continuous or not
+full-time or an equal amount of part-time work
+combined across more than one eligible high-wage job
+If you worked more than one job at the same time, hours are counted only up to the equal amount of full-time work (30 hours per week).
+Qualifying Canadian work experience
+Points
+At least 12 months in one or more high-wage occupations with median wages at least twice the average median wage
+70
+If not eligible for the 70 points, at least 12 months combined in one or more high-wage occupations with median wages at least 1.5 times the average median wage
+40
+if not eligible for the 40 points, at least 12 months combined in one or more high-wage occupations with median wages at least 1.3 times the average median wage
+20
+Less than 12 months of qualifying experience in high-wage occupations
+0
+Skills transferability factors
+The rules used for skills transferability factors are not changing.
+We’ll keep assessing Canadian work experience for skills transferability factors:
+using existing Canadian work experience length requirements
+not using the high-wage occupation points requirements
+Job offer points
+We’re reintroducing job offer points to the CRS.
+To get job offer points, your offer must:
+be valid under Express Entry, and
+be for a position in an eligible high-wage occupation
+Job offer points are assessed as part of the Labour Market Integration factor.
+Job offer category
+Points
+A job in a high-wage occupation with at least twice the average median wage
+100
+A job in a high-wage occupation with at least 1.5 times, but less than twice, the average median wage
+70
+A job in a high-wage occupation with at least 1.3 times, but less than 1.5 times, the average median wage
+50
+A job that is not in a high-wage occupation
+0
+Changes to job offers
+We’re changing how we assess job offers under Express Entry. As of November 3, 2026:
+you don’t need a Labour Market Impact Assessment (LMIA) for a job offer to qualify for program eligibility or CRS points
+having an LMIA will not give you more CRS points or give your profile priority
+job offers may be for an existing or a new position
+job offers may be for an existing or a new employer
+officers will assess whether a job offer is genuine
+All qualifying job offers are still assessed by an officer when you apply for permanent residence. The officer must be satisfied that the job offer is genuine to be able to use it for either program eligibility or to calculate your Labour Market Integration factor score.
+This includes whether:
+the employer
+is active in the business
+can fulfill the terms of their offer
+made an offer that meets their needs
+is following employment and recruitment laws
+you
+are qualified and able to perform the work
+are likely to accept the offer and carry out the job
+How to update your profile if you have a job offer without an LMIA
+As of November 3, 2026, while our requirements will have changed, our online system will not yet reflect that change.
+In your profile you will still be required to select that you have a positive LMIA, even though you don’t need one.
+In your profile, under “Work history”, include that you have a job offer with the following details:
+Question or field
+Response
+Was a positive LMIA issued for the job offer in Canada?
+Yes
+LMIA Number
+00000
+LMIA Issuance Date
+2026-01-01
+LMIA Expiry Date
+2029-01-01
+Federal Skilled Worker Program and Federal Skilled Trades Program applicants
+The rules for receiving CRS job offer points are different from the rules used to make you eligible for immigration programs.
+A valid job offer may still help you meet program eligibility requirements even if the job is not on the high-wage occupation list.
+This means:
+a job offer may qualify for program eligibility but not qualify for CRS job offer points
+CRS job offer points and program eligibility are assessed separately
+Qualifying job offers for the Federal Skilled Worker and Federal Skilled Trades Programs are not limited to high-wage occupations and may be in any eligible TEER 0, 1, 2 or 3 job that meets program requirements.
+Page details
+2026-10-16
