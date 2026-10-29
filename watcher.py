@@ -249,6 +249,50 @@ def check_feed(src, state, report):
         report["dirty"] = True
 
 
+def check_json(src, state, report):
+    """New Express Entry rounds from the JSON file behind the rounds page."""
+    st = state.setdefault("json", {}).setdefault(src["id"], {})
+    try:
+        data = json.loads(fetch(src["url"]))
+        rounds = data.get("rounds") if isinstance(data, dict) else data
+        if not isinstance(rounds, list):
+            rounds = next((v for v in data.values() if isinstance(v, list)), None) if isinstance(data, dict) else None
+        if not rounds:
+            raise RuntimeError("No list of rounds found in the file")
+    except Exception as e:  # noqa: BLE001
+        st["fails"] = st.get("fails", 0) + 1
+        st["last_error"] = str(e)[:300]
+        report["dirty"] = True
+        if st["fails"] == FAIL_ALERT_AFTER:
+            report["failures"].append((src, st["last_error"]))
+        return
+    if st.get("fails", 0) >= FAIL_ALERT_AFTER:
+        report["recovered"].append(src)
+    if st.get("fails"):
+        report["dirty"] = True
+    st["fails"] = 0
+    st.pop("last_error", None)
+    def key(r):
+        return str(r.get("drawNumber") or r.get("drawDateFull") or r.get("drawDate") or json.dumps(r, sort_keys=True)[:80])
+    seen = set(st.get("seen", []))
+    first_run = not seen
+    for r in rounds[:25]:
+        k = key(r)
+        if k in seen:
+            continue
+        seen.add(k)
+        if not first_run:
+            report["draws"].append({"src": src, "round": r})
+    if first_run:
+        report["baseline"].append(src)
+    if first_run or report["draws"]:
+        report["dirty"] = True
+    st["seen"] = sorted(seen)[-300:]
+
+
+DRAW_FIELDS = [("drawNumber", "Round"), ("drawDateFull", "Date"), ("drawDate", "Date"), ("drawName", "Type"), ("drawSize", "Invitations"), ("drawCRS", "Lowest CRS score"), ("drawCutOff", "Tie-break")]
+
+
 def build_issue(report, owner):
     parts, titles = [], []
     for c in report["changes"]:
@@ -275,6 +319,17 @@ def build_issue(report, owner):
         it = n["item"]
         titles.append(it["title"][:40])
         parts.append(f"### 📰 IRCC news: {it['title']}\n{it['link']}\nPublished {it['date'] or 'date not given'} · matched: {', '.join(n['hits']) or 'all'}\n\n> {it['summary']}")
+    for d in report["draws"]:
+        r = d["round"]
+        shown, used = [], set()
+        for k, label in DRAW_FIELDS:
+            if r.get(k) not in (None, "") and label not in used:
+                shown.append(f"- **{label}:** {r[k]}")
+                used.add(label)
+        if not shown:
+            shown = [f"- **{k}:** {v}" for k, v in list(r.items())[:8]]
+        titles.append("new Express Entry draw " + str(r.get("drawNumber") or ""))
+        parts.append("### 🎯 New Express Entry round of invitations\n" + d["src"]["page"] + "\n\n" + "\n".join(shown))
     for s, err in report["failures"]:
         titles.append("source unreachable")
         parts.append(f"### ⚠️ Could not read: {s['name']}\n{s['url']}\nFailed {FAIL_ALERT_AFTER} runs in a row. Last error: `{err}`\nNo update was invented for this source. If the page moved, update its URL in `sources.json`.")
@@ -323,21 +378,27 @@ def main():
     state = load_json(STATE_FILE, {})
     state.setdefault("pages", {})
     state.setdefault("feeds", {})
-    report = {"changes": [], "news": [], "failures": [], "recovered": [], "baseline": [], "dirty": False}
+    report = {"changes": [], "news": [], "draws": [], "failures": [], "recovered": [], "baseline": [], "dirty": False}
     for src in cfg.get("pages", []):
         check_page(src, state, report)
     for src in cfg.get("feeds", []):
         check_feed(src, state, report)
+    for src in cfg.get("json", []):
+        check_json(src, state, report)
     owner = os.environ.get("OWNER", "")
     title, body = build_issue(report, owner)
     if report["baseline"] and not state.get("started"):
         state["started"] = now_iso()
         ok = len(report["baseline"])
-        failed = [s for s in cfg.get("pages", []) + cfg.get("feeds", []) if (state["pages"].get(s["id"]) or state["feeds"].get(s["id"]) or {}).get("fails")]
+        failed = [s for s in cfg.get("pages", []) + cfg.get("feeds", []) + cfg.get("json", []) if (state["pages"].get(s["id"]) or state["feeds"].get(s["id"]) or state.get("json", {}).get(s["id"]) or {}).get("fails")]
         title = title or "[PR Radar] Watcher is running"
         body = (body or "") + (f"\n\n---\n\n@{owner} PR Radar is set up. Saved a starting copy of {ok} source(s). "
                                "From now on you'll get an issue here only when one of them changes."
                                + (f"\n\nNot reachable on this first run: {', '.join(s['name'] for s in failed)}" if failed else ""))
+    elif report["baseline"]:
+        names = ", ".join(s["name"] for s in report["baseline"])
+        title = title or "[PR Radar] Started watching new source"
+        body = (body or f"@{owner}") + f"\n\n---\n\nStarted watching: {names}. You'll hear about it only when it changes."
     last_beat = state.get("heartbeat")
     if not last_beat or (dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(last_beat)).days >= HEARTBEAT_DAYS:
         state["heartbeat"] = now_iso()
@@ -348,7 +409,7 @@ def main():
     if title:
         open_issue(title, body)
         push_ntfy(title, body)
-    print(f"pages changed: {len(report['changes'])}, news: {len(report['news'])}, failures: {len(report['failures'])}")
+    print(f"pages changed: {len(report['changes'])}, news: {len(report['news'])}, draws: {len(report['draws'])}, failures: {len(report['failures'])}")
     return 0
 
 

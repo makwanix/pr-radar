@@ -7,9 +7,10 @@ A free, hourly watcher for the official Canadian immigration pages that matter t
 Every hour (at about :17) it:
 
 1. Reads 10 official pages from IRCC and Ontario (listed in `sources.json`) and compares their text with the last saved copy.
-2. Reads the IRCC newsroom feed and looks for new items about Express Entry, PR, study and work permits, PGWP, provincial nominees and fees.
-3. If anything changed, it **opens a GitHub issue** listing the new and removed text, with links. GitHub emails you and sends a notification to the GitHub mobile app.
-4. Saves the new copy so the same change isn't reported twice.
+2. Reads the data file behind IRCC's Express Entry rounds page and reports each new draw (date, type, invitations, lowest score).
+3. Reads the IRCC newsroom feed and looks for new items about Express Entry, PR, study and work permits, PGWP, provincial nominees and fees.
+4. If anything changed, it **opens a GitHub issue** listing the new and removed text, with links. GitHub emails you and sends a notification to the GitHub mobile app.
+5. Saves the new copy so the same change isn't reported twice.
 
 It **does not interpret** changes. To find out what a change means for you and update your Canada PR Intelligence app, ask Claude: “PR Radar found a change — what does it mean for me?” and paste the issue link.
 
@@ -39,6 +40,6 @@ Edit `sources.json`. Add a page with an `id`, `name` and `url`. Remove one by de
 
 ## Limits
 
-- The Express Entry rounds page may load its results table with JavaScript, so a new draw might not show up as a page change. The IRCC newsroom feed usually covers announcements, but not every draw.
+- Draws are read from the data file behind IRCC's rounds page. That address isn't documented by IRCC; if it changes, you'll get an issue saying the source is unreachable.
 - Small website layout edits can occasionally trigger a change report with no real rule change. The issue shows the exact text so you can judge.
 - GitHub can start scheduled runs several minutes late at busy times.
