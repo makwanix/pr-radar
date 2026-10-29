@@ -1,0 +1,22 @@
+{
+  "pages": [
+    { "id": "ee-changes", "name": "IRCC: Express Entry — what has changed", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/changes.html" },
+    { "id": "cec", "name": "IRCC: Canadian Experience Class rules", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/canadian-experience-class.html" },
+    { "id": "crs-criteria", "name": "IRCC: CRS points criteria", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html" },
+    { "id": "high-wage", "name": "IRCC: High-wage occupations list", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/high-wage.html" },
+    { "id": "ee-rounds", "name": "IRCC: Express Entry rounds of invitations", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations.html", "note": "The results table may load with JavaScript, so new draws might not show as a page change. The IRCC news feed below is the backup." },
+    { "id": "pgwp", "name": "IRCC: PGWP — who can apply", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html" },
+    { "id": "wp-expired", "name": "IRCC: If your work permit expired (maintained status)", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/expired-permit.html" },
+    { "id": "fee-changes", "name": "IRCC: Fee changes", "url": "https://www.ircc.canada.ca/english/information/fees/fee-changes.asp" },
+    { "id": "oinp-updates", "name": "Ontario: 2026 OINP updates (draws and announcements)", "url": "https://www.ontario.ca/page/2026-ontario-immigrant-nominee-program-updates" },
+    { "id": "oinp-owp", "name": "Ontario: Ontario Workforce Priority stream rules", "url": "https://www.ontario.ca/page/ontario-workforce-priority-stream" }
+  ],
+  "feeds": [
+    {
+      "id": "ircc-news",
+      "name": "IRCC newsroom",
+      "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofcitizenshipandimmigration&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Immigration,%20Refugees%20and%20Citizenship%20Canada",
+      "keywords": ["express entry", "permanent resid", "international student", "study permit", "post-graduation", "pgwp", "work permit", "provincial nominee", "canadian experience", "skilled worker", "skilled trades", "levels plan", "immigration levels", "temporary resident", "economic immigration", "graduate", "fee", "invitation", "category-based", "high-wage", "job offer", "lmia"]
+    }
+  ]
+}

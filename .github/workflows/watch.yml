@@ -1,0 +1,42 @@
+name: PR Radar watcher
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # every hour at :17 (GitHub runs schedules in UTC; may start a few minutes late)
+  workflow_dispatch: {}    # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write   # save snapshots back to this repo
+  issues: write     # open an issue when something changes
+
+concurrency:
+  group: pr-radar
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check official pages
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.repository }}
+        run: python3 watcher.py
+
+      - name: Save snapshots
+        run: |
+          git config user.name "pr-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A state snapshots
+          if git diff --cached --quiet; then
+            echo "Nothing to save"
+          else
+            git commit -m "radar: update snapshots"
+            git pull --rebase --quiet || true
+            git push
+          fi
