@@ -290,6 +290,31 @@ def check_json(src, state, report):
     st["seen"] = sorted(seen)[-300:]
 
 
+def save_copies(cfg, state, report):
+    """Keep an up-to-date copy of official data files (for the app). No alerts."""
+    st = state.setdefault("copies", {})
+    for src in cfg.get("copies", []):
+        s = st.setdefault(src["id"], {})
+        try:
+            raw = fetch(src["url"])
+            json.loads(raw)  # must be valid JSON
+        except Exception as e:  # noqa: BLE001
+            s["fails"] = s.get("fails", 0) + 1
+            s["last_error"] = str(e)[:200]
+            report["dirty"] = True
+            continue
+        digest = hashlib.sha256(raw.encode("utf-8")).hexdigest()
+        s["fails"] = 0
+        s.pop("last_error", None)
+        if digest != s.get("hash"):
+            path = os.path.join(ROOT, src["file"])
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(raw)
+            s.update(hash=digest, saved=now_iso())
+            report["dirty"] = True
+
+
 DRAW_FIELDS = [("drawNumber", "Round"), ("drawDateFull", "Date"), ("drawDate", "Date"), ("drawName", "Type"), ("drawSize", "Invitations"), ("drawCRS", "Lowest CRS score"), ("drawCutOff", "Tie-break")]
 
 
@@ -385,6 +410,7 @@ def main():
         check_feed(src, state, report)
     for src in cfg.get("json", []):
         check_json(src, state, report)
+    save_copies(cfg, state, report)
     owner = os.environ.get("OWNER", "")
     title, body = build_issue(report, owner)
     if report["baseline"] and not state.get("started"):
