@@ -8,9 +8,10 @@ Every hour (at about :17) it:
 
 1. Reads 10 official pages from IRCC and Ontario (listed in `sources.json`) and compares their text with the last saved copy.
 2. Reads the data file behind IRCC's Express Entry rounds page and reports each new draw (date, type, invitations, lowest score).
-3. Reads the IRCC newsroom feed and looks for new items about Express Entry, PR, study and work permits, PGWP, provincial nominees and fees.
-4. If anything changed, it **opens a GitHub issue** listing the new and removed text, with links. GitHub emails you and sends a notification to the GitHub mobile app.
-5. Saves the new copy so the same change isn't reported twice.
+3. Saves copies of IRCC's official draw data and processing-time data (in `data/`) so your Canada PR Intelligence app can show draw history and processing times.
+4. Reads the IRCC newsroom feed and looks for new items about Express Entry, PR, study and work permits, PGWP, provincial nominees and fees.
+5. If anything changed, it **opens a GitHub issue** listing the new and removed text, with links. GitHub emails you and sends a notification to the GitHub mobile app.
+6. Saves the new copy so the same change isn't reported twice.
 
 It **does not interpret** changes. To find out what a change means for you and update your Canada PR Intelligence app, ask Claude: “PR Radar found a change — what does it mean for me?” and paste the issue link.
 
@@ -29,6 +30,21 @@ If a page can't be read for 3 runs in a row, it opens an issue saying so. It nev
 1. Install the **ntfy** app (Android or iPhone).
 2. In the app, subscribe to a long, hard-to-guess topic name, for example `pr-radar-akshay-7f3k9q2x`. Anyone who knows the name can read the alerts, so don't use something obvious.
 3. In GitHub: **Settings → Secrets and variables → Actions → New repository secret**. Name: `NTFY_TOPIC`. Value: your topic name.
+
+## Make it truly hourly (optional, free)
+
+GitHub often runs scheduled workflows late, or skips them, on quiet repositories. In practice this watcher has run every 4–7 hours. To force a run every hour:
+
+1. On GitHub: **Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token**. Repository access: **Only select repositories → pr-radar**. Permissions: **Actions: Read and write**. Copy the token.
+2. Create a free account at **cron-job.org** and add a job:
+   - URL: `https://api.github.com/repos/makwanix/pr-radar/actions/workflows/watch.yml/dispatches`
+   - Schedule: every hour
+   - Request method: **POST**
+   - Headers: `Authorization: Bearer YOUR_TOKEN`, `Accept: application/vnd.github+json`, `Content-Type: application/json`
+   - Body: `{"ref":"main"}`
+3. Keep the token private. It can only run this one workflow.
+
+Each extra run uses about 1 Actions minute. Hourly runs from both triggers stay under about 1,500 minutes a month, within the 2,000 free minutes for private repos (shared with your other private repos' Actions).
 
 ## Cost
 
