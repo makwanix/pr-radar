@@ -1,8 +1,25 @@
 {
+  "copies": {
+    "ee-rounds": {
+      "fails": 0,
+      "hash": "ce62c797c9a203e940741f44e1f41b78df79b39c4a0248f2b03c2226063ea54f",
+      "saved": "2026-10-31T01:45:30+00:00"
+    },
+    "ptime": {
+      "fails": 0,
+      "hash": "3e1df4b2e20d1ff24e711b80291afc5529dca98033013461e02d540a35e62758",
+      "saved": "2026-10-31T01:45:33+00:00"
+    },
+    "ptime-nc": {
+      "fails": 0,
+      "hash": "05f606f33a531e01b730f511871c090a42e8ac573d873e192855bab6717c8cb6",
+      "saved": "2026-10-31T01:45:34+00:00"
+    }
+  },
   "feeds": {
     "ircc-news": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:59:10+00:00",
+      "last_ok": "2026-10-31T01:45:27+00:00",
       "seen": [
         "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/03/canada-launches-measures-to-support-those-impacted-by-domestic-natural-disasters.html",
         "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/04/celebrating-canadian-citizenship-unity-belonging-and-building-our-nation-together.html",
@@ -90,75 +107,75 @@
       ]
     }
   },
-  "last_run": "2026-10-29T09:59:11+00:00",
+  "last_run": "2026-10-31T01:45:34+00:00",
   "pages": {
     "cec": {
       "fails": 0,
       "hash": "5299ad98be4cfcec14aff822ccbdc742b2884788bddc1bf90c0ec0e437cb1b13",
-      "last_ok": "2026-10-29T09:58:52+00:00",
+      "last_ok": "2026-10-31T01:45:13+00:00",
       "modified": "2026-10-16",
       "since": "2026-10-29T03:16:41+00:00"
     },
     "crs-criteria": {
       "fails": 0,
       "hash": "a74602868244da323fc7662f98d84987a11b12dd9df3ae70483ee8c74e1038ec",
-      "last_ok": "2026-10-29T09:58:55+00:00",
+      "last_ok": "2026-10-31T01:45:16+00:00",
       "modified": "2026-10-16",
       "since": "2026-10-29T03:16:44+00:00"
     },
     "ee-changes": {
       "fails": 0,
       "hash": "7998d3ef1e03932791bc142d50b7bdc918067e3e28c5d0b1310b1459c8684f4c",
-      "last_ok": "2026-10-29T09:58:50+00:00",
+      "last_ok": "2026-10-31T01:45:10+00:00",
       "modified": "2026-10-16",
       "since": "2026-10-29T03:16:39+00:00"
     },
     "ee-rounds": {
       "fails": 0,
       "hash": "a770b7eae9980be2cf681ae5017f450b493f02b5ddbf9770ef34ef57a1162a7e",
-      "last_ok": "2026-10-29T09:59:01+00:00",
+      "last_ok": "2026-10-31T01:45:18+00:00",
       "modified": "2026-10-16",
       "since": "2026-10-29T03:16:50+00:00"
     },
     "fee-changes": {
       "fails": 0,
       "hash": "c7270afe79cabaa0dc237dbdd6372e738907f1135a98a9197457764bf15ee922",
-      "last_ok": "2026-10-29T09:59:08+00:00",
+      "last_ok": "2026-10-31T01:45:26+00:00",
       "modified": null,
       "since": "2026-10-29T03:16:55+00:00"
     },
     "high-wage": {
       "fails": 0,
       "hash": "afe113032754d80b76d826df1ef2dd236ac181b37553517e3a0f1f0583751dd2",
-      "last_ok": "2026-10-29T09:58:58+00:00",
+      "last_ok": "2026-10-31T01:45:17+00:00",
       "modified": "2026-10-16",
       "since": "2026-10-29T03:16:47+00:00"
     },
     "oinp-owp": {
       "fails": 0,
       "hash": "9a117d9c0e79037046e8ad019097d88e96a9952f85307986a4644be738ccbe79",
-      "last_ok": "2026-10-29T09:59:09+00:00",
+      "last_ok": "2026-10-31T01:45:27+00:00",
       "modified": "2026-10-20",
       "since": "2026-10-29T03:16:56+00:00"
     },
     "oinp-updates": {
       "fails": 0,
       "hash": "117ae7b448d680bcd2c832c1c2d5cc3225fc20fd7e9df08fbbc796dc4a8ed1c6",
-      "last_ok": "2026-10-29T09:59:09+00:00",
+      "last_ok": "2026-10-31T01:45:26+00:00",
       "modified": "2026-10-16",
       "since": "2026-10-29T03:16:56+00:00"
     },
     "pgwp": {
       "fails": 0,
       "hash": "203e4867bc1076cf8bf5ca951a55f30b793414897c3af240e2c87b5028efc14b",
-      "last_ok": "2026-10-29T09:59:04+00:00",
+      "last_ok": "2026-10-31T01:45:22+00:00",
       "modified": "2026-06-24",
       "since": "2026-10-29T03:16:51+00:00"
     },
     "wp-expired": {
       "fails": 0,
       "hash": "80c835cb13e0ae92edd808c0fbadb8863897992438edc64ad81d37ee2f239ffa",
-      "last_ok": "2026-10-29T09:59:07+00:00",
+      "last_ok": "2026-10-31T01:45:25+00:00",
       "modified": "2026-07-17",
       "since": "2026-10-29T03:16:54+00:00"
     }
