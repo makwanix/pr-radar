@@ -5,19 +5,21 @@ Core/human capital factors
 Spouse or common-law partner factors
 Skill transferability factors
 Additional points
-Changes coming to jobs offers and how we calculate your score
-As of November 3, 2026, we’re:
-changing how points are awarded for Canadian work experience and valid job offers
-removing Labour Market Impact Assessment (LMIA) requirements for all job offers
-The system will recalculate your existing profile when the changes take effect, which could take up to two weeks. During this time we’ll pause invitation rounds and will start again when it’s complete.
+Changes to Express Entry job offers and how we calculate your score
+As of November 3, 2026, we’ve
+changed how points are awarded for Canadian work experience and valid job offers
+removed Labour Market Impact Assessment (LMIA) requirements and LMIA-exemption requirements for all Express Entry job offers
+The system is recalculating points in existing profiles, which could take up to 2 weeks. During this time, we’ll pause invitation rounds and will start again when it’s complete.
 If you have a valid job offer and haven’t included it in your profile
-If you have a valid job offer without an LMIA and haven’t included it yet, you should update your profile.
-What isn’t changing
-If having a valid job offer is part of your eligibility criteria, this won’t change. This includes:
+If you have a valid job offer and haven’t included it yet, you should update your profile.
+Although an LMIA is no longer required for job offers, our online system does not yet reflect this change and may ask for LMIA information. It is important to follow the instructions when updating your profile to ensure your job offer is accepted without an LMIA.
+What hasn’t changed
+If having a valid job offer is part of your eligibility criteria, this hasn’t changed. This includes:
 the Federal Skilled Trades Program
 the Federal Skilled Worker Program
 some streams under provincial nominee programs
-You should still include the details of any job offers in your Express Entry profile so you stay eligible for these programs.
+Valid job offers to meet eligibility criteria can continue to be in either a non-high-wage or high-wage occupation, but an LMIA will no longer be required for these job offers.
+You should still include the details of any job offers in your Express Entry profile, so you remain eligible for these programs.
 A. Core/human capital factors
 You will earn points as if you don’t have a spouse or partner if:
 they are not coming with you to Canada, or
@@ -34,12 +36,12 @@ Level of education
 Official languages proficiency
 150
 160
-Canadian work experience Info
-70
-80
+Labour Market Integration factor New: November 3, 2026
+140
+150
 Points breakdown of Core/human capital factors
-With a spouse or common-law partner: Maximum 460 points total
-Without a spouse or common-law partner: Maximum 500 points total
+With a spouse or common-law partner: Maximum 530 points total
+Without a spouse or common-law partner: Maximum 570 points total
 Age
 With a spouse or common-law partner
 (Maximum 100 points)
@@ -176,7 +178,12 @@ CLB 7 or 8
 3
 CLB 9 or more
 6
+Labour Market Integration factor
+We give points for either Canadian work experience (work-length points and high-wage occupation points) or a high-wage job offer, but not both.
 Canadian work experience
+With a spouse or common-law partner: Maximum 140 points total (70 for work-length + 70 for high-wage occupations)
+Without a spouse or common-law partner: Maximum 150 points total (80 for work-length + 70 for high-wage occupations)
+Length of Canadian work experience
 With a spouse or common-law partner
 (Maximum 70 points)
 Without a spouse or common-law partner
@@ -198,6 +205,28 @@ None or less than a year
 5 years or more
 70
 80
+Qualifying high-wage Canadian work experience
+With a spouse or common-law partner
+(Maximum 70 points)
+Without a spouse or common-law partner
+(Maximum 70 points)
+At least 12 months in one or more high-wage occupations with median wages at least twice the median wage
+70
+If not eligible for the 70 points, at least 12 months combined in one or more high-wage occupations with median wages at least 1.5 times the median wage
+40
+If not eligible for the 40 points, at least 12 months combined in one or more high-wage occupations with median wages at least 1.3 times the median wage
+20
+High-wage job offer
+High-wage job offer category
+Points
+A job in a high-wage occupation twice the median wage
+100
+A job in a high-wage occupation 1.5 times the median wage
+70
+A job in a high-wage occupation 1.3 times the median wage
+50
+A job that is not in a high-wage occupation
+0
 B. Spouse or common-law partner factors (if applicable)
 Factors
 Points
@@ -206,7 +235,7 @@ Level of education
 10
 Official language proficiency
 20
-Canadian work experience Info
+Canadian work experience
 10
 Canadian work experience means working for a Canadian employer in Canada. Working remotely counts if you were physically in Canada.
 Points breakdown of Spouse or common-law partner factors (if applicable)
@@ -406,4 +435,4 @@ Post-secondary education in Canada - credential three years or longer
 Provincial or territorial nomination
 600
 Page details
-2026-10-16
+2026-11-03
