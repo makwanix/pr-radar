@@ -1,7 +1,17 @@
-2026 changes to points for Canadian work experience and job offers
-As of November 3, 2026, we’re changing how we award points under the Express Entry Comprehensive Ranking System (CRS) and job offer requirements.
-The system will recalculate points in existing profiles when the changes take effect, which could take up to two weeks. During this time we’ll pause invitation rounds and will start again when it’s complete.
+2026 changes to the Express Entry system
+In late 2026, we’ve made changes to:
+eligibility criteria
+how we award points
+job offer requirements
 On this page
+Changes that came into effect November 17, 2026
+Changes that came into effect November 3, 2026
+Changes that came into effect November 17, 2026
+Changes to eligibility requirements and category-based selection for researchers came into effect on November 17, 2026.
+Canadian work experience and job offers for university professors and lecturers (NOC 41200) can now include work that is paid by a Canadian entity through a stipend or other forms of funding (such as grants, bursaries and scholarships). This change supports researchers and academics who receive non-wage compensation.
+Work experience as a Post-secondary teaching and research assistant (NOC 41201) is no longer eligible for the Researchers with Canadian work experience category.
+Changes that came into effect November 3, 2026
+These changes to points for Canadian work experience and job offers came into effect on November 3, 2026:
 Changes to CRS points
 Changes to job offers
 Federal Skilled Worker Program and Federal Skilled Trades Program applicants
@@ -18,9 +28,9 @@ It is not determined based on a person’s specific job position.
 High-wage occupations are grouped into 3 levels using NOC codes and points are awarded based on those levels. Only jobs listed in those 3 high-wage occupation levels are eligible for high-wage occupation points or job offer points under the Labour Market Integration factor.
 Find out which jobs are eligible for these points under the Express Entry system.
 How the Labour Market Integration factor is calculated
-To calculate your score we compare the points you could receive from either your Canadian work experience or a qualifying job offer. You’ll get the score that gives you the higher number of CRS points.
+To calculate your score we compare the points you could receive from either your Canadian work experience in the last 10 years or a qualifying job offer. You’ll get the score that gives you the higher number of CRS points.
 You can get a maximum of 150 points for the Labour Market Integration factor.
-Caption text
+Calculating the Score
 Score options
 Points with a spouse or common-law partner
 Points without a spouse or common-law partner
@@ -36,7 +46,7 @@ Qualifying job offer
 Canadian work experience points
 Canadian work experience points are the combination of work-length points and high-wage occupation points.
 Work-length points
-Work-length points are the same CRS points that are currently awarded for qualifying work experience in any TEER 0-3 NOC.
+Work-length points are the same CRS points that are currently awarded for qualifying work experience in the last 10 years in any TEER 0-3 NOC.
 The eligibility requirements for Canadian work experience are not changing.
 Length of Canadian work experience
 Points with a spouse or common-law partner (Maximum 70 points)
@@ -61,7 +71,7 @@ None or less than a year
 High-wage occupation points
 High-wage occupation points are extra CRS points we award for qualifying Canadian work experience you gained in eligible high-wage occupations.
 We award these points in addition to work-length points.
-To qualify, you must have at least 1 year (12 months or 1,560 hours) of qualifying Canadian work experience that:
+To qualify, you must have at least 1 year (12 months or 1,560 hours) of qualifying Canadian work experience in the last 10 years that:
 meets the existing requirements for qualifying Canadian work experience under Express Entry
 was gained in one or more eligible high-wage occupations
 Eligible work experience may be:
@@ -85,7 +95,7 @@ We’ll keep assessing Canadian work experience for skills transferability facto
 using existing Canadian work experience length requirements
 not using the high-wage occupation points requirements
 Job offer points
-We’re reintroducing job offer points to the CRS.
+We’ve reintroduced job offer points to the CRS.
 To get job offer points, your offer must:
 be valid under Express Entry, and
 be for a position in an eligible high-wage occupation
@@ -101,7 +111,7 @@ A job in a high-wage occupation with at least 1.3 times, but less than 1.5 times
 A job that is not in a high-wage occupation
 0
 Changes to job offers
-We’re changing how we assess job offers under Express Entry. As of November 3, 2026:
+We’ve changed how we assess job offers under Express Entry. As of November 3, 2026:
 you don’t need a Labour Market Impact Assessment (LMIA) for a job offer to qualify for program eligibility or CRS points
 having an LMIA will not give you more CRS points or give your profile priority
 job offers may be for an existing or a new position
@@ -139,4 +149,4 @@ a job offer may qualify for program eligibility but not qualify for CRS job offe
 CRS job offer points and program eligibility are assessed separately
 Qualifying job offers for the Federal Skilled Worker and Federal Skilled Trades Programs are not limited to high-wage occupations and may be in any eligible TEER 0, 1, 2 or 3 job that meets program requirements.
 Page details
-2026-10-16
+2026-11-18

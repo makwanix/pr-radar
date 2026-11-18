@@ -7,19 +7,19 @@
     },
     "ptime": {
       "fails": 0,
-      "hash": "f03d8bd3bc82d681d88440198008d219177496867aed930eeb1026d1066e00d8",
-      "saved": "2026-11-13T15:21:11+00:00"
+      "hash": "61369c24dfcc548d0bbb386e1d7fd45c2c5528cc2817108a7de3779e58bf01ab",
+      "saved": "2026-11-18T21:24:10+00:00"
     },
     "ptime-nc": {
       "fails": 0,
-      "hash": "bb27269dd33b814dae3a7d3c6b39572837f589bf9a27ce17bd382b83b1706c82",
-      "saved": "2026-11-13T15:21:12+00:00"
+      "hash": "f3a18f8a9cc6f6278cc918d8493031f85d6c073b8bd28cdea0f4e0811e9b8d52",
+      "saved": "2026-11-18T21:24:11+00:00"
     }
   },
   "feeds": {
     "ircc-news": {
       "fails": 0,
-      "last_ok": "2026-11-13T15:21:04+00:00",
+      "last_ok": "2026-11-18T21:24:05+00:00",
       "seen": [
         "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/03/canada-launches-measures-to-support-those-impacted-by-domestic-natural-disasters.html",
         "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/04/celebrating-canadian-citizenship-unity-belonging-and-building-our-nation-together.html",
@@ -123,75 +123,75 @@
       ]
     }
   },
-  "last_run": "2026-11-13T15:21:12+00:00",
+  "last_run": "2026-11-18T21:24:11+00:00",
   "pages": {
     "cec": {
       "fails": 0,
-      "hash": "5299ad98be4cfcec14aff822ccbdc742b2884788bddc1bf90c0ec0e437cb1b13",
-      "last_ok": "2026-11-13T15:20:54+00:00",
-      "modified": "2026-10-16",
-      "since": "2026-10-29T03:16:41+00:00"
+      "hash": "4a61bf7107d615bbe3fd46bca85aba8bad9d42c5957f80a7810c532b87eb09c1",
+      "last_ok": "2026-11-18T21:23:55+00:00",
+      "modified": "2026-11-18",
+      "since": "2026-11-18T21:23:55+00:00"
     },
     "crs-criteria": {
       "fails": 0,
       "hash": "0092917414c31806fb42b5fd00c64e734ab253029fed2b19e8f849821a541912",
-      "last_ok": "2026-11-13T15:20:55+00:00",
+      "last_ok": "2026-11-18T21:23:57+00:00",
       "modified": "2026-11-03",
       "since": "2026-11-03T17:49:39+00:00"
     },
     "ee-changes": {
       "fails": 0,
-      "hash": "7998d3ef1e03932791bc142d50b7bdc918067e3e28c5d0b1310b1459c8684f4c",
-      "last_ok": "2026-11-13T15:20:53+00:00",
-      "modified": "2026-10-16",
-      "since": "2026-10-29T03:16:39+00:00"
+      "hash": "13bba5003a2f6850620f5a39522420d9eead24fd4f525444acc027636244c5cc",
+      "last_ok": "2026-11-18T21:23:54+00:00",
+      "modified": "2026-11-18",
+      "since": "2026-11-18T21:23:54+00:00"
     },
     "ee-rounds": {
       "fails": 0,
       "hash": "a770b7eae9980be2cf681ae5017f450b493f02b5ddbf9770ef34ef57a1162a7e",
-      "last_ok": "2026-11-13T15:20:57+00:00",
+      "last_ok": "2026-11-18T21:23:59+00:00",
       "modified": "2026-10-16",
       "since": "2026-10-29T03:16:50+00:00"
     },
     "fee-changes": {
       "fails": 0,
       "hash": "c7270afe79cabaa0dc237dbdd6372e738907f1135a98a9197457764bf15ee922",
-      "last_ok": "2026-11-13T15:21:02+00:00",
+      "last_ok": "2026-11-18T21:24:03+00:00",
       "modified": null,
       "since": "2026-10-29T03:16:55+00:00"
     },
     "high-wage": {
       "fails": 0,
       "hash": "afe113032754d80b76d826df1ef2dd236ac181b37553517e3a0f1f0583751dd2",
-      "last_ok": "2026-11-13T15:20:56+00:00",
+      "last_ok": "2026-11-18T21:23:58+00:00",
       "modified": "2026-10-16",
       "since": "2026-10-29T03:16:47+00:00"
     },
     "oinp-owp": {
       "fails": 0,
       "hash": "9a117d9c0e79037046e8ad019097d88e96a9952f85307986a4644be738ccbe79",
-      "last_ok": "2026-11-13T15:21:03+00:00",
+      "last_ok": "2026-11-18T21:24:04+00:00",
       "modified": "2026-10-20",
       "since": "2026-10-29T03:16:56+00:00"
     },
     "oinp-updates": {
       "fails": 0,
       "hash": "803f41f4978247fc7ff83858705fba4ecffba7a849438189eeb0e28d04e76172",
-      "last_ok": "2026-11-13T15:21:03+00:00",
+      "last_ok": "2026-11-18T21:24:04+00:00",
       "modified": "2026-11-09",
       "since": "2026-11-10T02:03:49+00:00"
     },
     "pgwp": {
       "fails": 0,
       "hash": "203e4867bc1076cf8bf5ca951a55f30b793414897c3af240e2c87b5028efc14b",
-      "last_ok": "2026-11-13T15:20:59+00:00",
+      "last_ok": "2026-11-18T21:24:00+00:00",
       "modified": "2026-06-24",
       "since": "2026-10-29T03:16:51+00:00"
     },
     "wp-expired": {
       "fails": 0,
       "hash": "80c835cb13e0ae92edd808c0fbadb8863897992438edc64ad81d37ee2f239ffa",
-      "last_ok": "2026-11-13T15:21:01+00:00",
+      "last_ok": "2026-11-18T21:24:02+00:00",
       "modified": "2026-07-17",
       "since": "2026-10-29T03:16:54+00:00"
     }

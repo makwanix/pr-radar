@@ -30,6 +30,9 @@ you were studying full-time while you worked (co-op work terms also don’t coun
 you were self-employed (some physicians can count their time spent self-employed)
 you were a volunteer or an unpaid intern
 you were not legally allowed to work in Canada
+University professors and lecturers can count other forms of paid work
+Updated: November 18, 2026
+As many researchers receive non-wage compensation, we now let Canadian work experience in NOC 41200 (University professors and lecturers) that has been paid by a Canadian entity through a stipend or other forms of funding (including grants, bursaries and scholarships), count as work.
 Some physicians can count self-employed time
 We have a temporary public policy that lets some foreign national physicians count self-employed time toward their work experience.
 You can count your self-employment as Canadian work experience if you have work experience providing publicly funded medical services in Canada (such as fee-for-service work).
@@ -69,4 +72,4 @@ When you fill out your profile, we’ll ask you where you plan to live in Canada
 You must plan to live outside the province of Quebec. The province of Quebec selects its own skilled workers. If you plan on living in Quebec, see Quebec-selected skilled workers for more information.
 If you’re a Provincial Nominee, you must settle in the province or territory that nominated you.
 Page details
-2026-10-16
+2026-11-18
