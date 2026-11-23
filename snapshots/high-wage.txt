@@ -24,7 +24,7 @@ moves levels on the list
 is removed from the list, or
 is added to the list
 Express Entry high-wage occupations list
-Comes into effect on November 3, 2026
+Came into effect on November 3, 2026
 The list is currently based on data from 2023 to 2025.
 NOCs with a median wage at least twice the average median wage
 NOC code
@@ -408,4 +408,4 @@ Supervisors, mineral and metal processing
 93102
 Pulping, papermaking and coating control operators
 Page details
-2026-10-16
+2026-11-23
