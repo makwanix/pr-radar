@@ -9,6 +9,49 @@ How to pay the fee difference
 Recent fee changes
 Find a list of our recent fee changes and related instructions.
 2026 fee changes
+2026-12-01: Inadmissibility fees increase
+We’re increasing inadmissibility fees on December 1, 2026.
+Fee name
+Old fee
+New fee
+Authorization to return to Canada
+$492.50
+$501.00
+Temporary resident permit
+$246.25
+$250.50
+Inadmissible on grounds of criminality
+$246.25
+$250.50
+Inadmissible on grounds of serious criminality
+$1,231.00
+$1,252.00
+Restore your status as a visitor
+Visa fee not needed
+$246.25
+$250.50
+Restore your status as a worker
+$246.25
+$250.50
+Restore your status as a worker
+This includes both the restoration fee and the work permit fee
+$401.25
+$405.50
+Restore your status as a student
+$246.25
+$250.50
+Restore your status as a student
+This includes both the restoration fee and the study permit fee
+$396.25
+$400.50
+2026-12-01: International Experience Canada fee increase
+We’re increasing the International Experience Canada fee on December 1, 2026.
+Fee name
+Old fee
+New fee
+International Experience Canada fee
+$184.75
+$187.75
 2026-04-30: Permanent residence fee increase
 On April 30, 2026, fees will increase for all permanent residence applications.
 List of old and new permanent residence fees
@@ -363,4 +406,4 @@ Submit your receipt
 Follow the instructions in the request we sent you.
 Page details
 Date modified:
-2026-09-21
+2026-11-25
