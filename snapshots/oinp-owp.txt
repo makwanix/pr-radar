@@ -1,5 +1,5 @@
 Ontario Workforce Priority stream
-Learn how to use the Ontario Immigrant Nominee Program to apply for permanent residence in Ontario if you are a foreign worker with a job offer or a self-employed physician.
+Learn how to use the Ontario Immigrant Nominee Program (OINP) to apply for permanent residence in Ontario if you are a foreign worker with a job offer or a self-employed physician.
 On this page Skip this page navigation
 Overview
 The Ontario Workforce Priority stream offers eligible skilled foreign workers with a qualifying job offer and work experience in any National Occupational Classification (NOC) occupation a pathway to apply to permanently live and work in Ontario. The stream is also available to eligible self-employed physicians who do not have a job offer.
@@ -41,11 +41,11 @@ Licence or other authorization required under Ontario or federal law to work in 
 You must have:
 at least 6 months of consecutive, paid, full-time work experience in the employment position your employer is seeking approval for and which is set out in your job offer
 gained this experience within the 12 months before the date you submitted your application
-Full-time work experience means work experience in the employment position your employer is seeking approval for and which is set out in your job offer (meaning, the same occupation, employer and location, etc.) which must require at least 780 hours of paid work in a 12-month period and at least 30 hours of paid work per week in a 12-month period.
+Full-time work experience means at least 30 hours of paid work experience per week.
+Work experience in the employment position your employer is seeking approval for means you have worked full-time for at least 6 months in the same job (same employer, NOC code and location) that forms the basis of your application.
 Return to work experience requirements for job offer under TEER category 0, 1, 2 or 3.
 3 months of consecutive work experience in the job offer within the last year for a recent Ontario graduate
-If you are a recent Ontario graduate, meaning that you:
-graduated from an eligible Ontario institution within the last 3 years with one of the following credentials:
+If you are a recent Ontario graduate, meaning that you graduated from an eligible Ontario institution within the last 3 years with one of the following credentials:
 post-secondary degree or diploma that took at least 2 years to complete on a full-time basis
 Ontario College Graduate Certificate
 Master’s degree
@@ -53,7 +53,8 @@ PhD degree
 You must have:
 at least 3 months of consecutive, paid, full-time work experience in the employment position your employer is seeking approval for and which is set out in your job offer
 gained this experience within the 12 months before the date you submitted your application
-Full-time work experience means work experience in the employment position your employer is seeking approval for and which is set out in your job offer (meaning, the same occupation, employer and location, etc.), which must require at least 390 hours of paid work in a 12-month period and at least 30 hours of paid work per week in a 12-month period.
+Full-time work experience means at least 30 hours of paid work experience per week.
+Work experience in the employment position your employer is seeking approval for means you have worked full-time for at least 3 months in the same job (same employer, NOC code and location) that forms the basis of your application.
 Return to work experience requirements for job offer under TEER category 0, 1, 2 or 3.
 2 years of cumulative work experience in the job offer NOC within the past 5 years
 You must have:
@@ -81,7 +82,8 @@ Job offer for a TEER category 4 or 5 employment position
 If you have a job offer for a TEER category 4 or 5 employment position, you must have:
 at least 9 months of cumulative, paid, full-time work experience in the employment position your employer is seeking approval for and which is set out in your job offer
 gained this work experience within 2 years before the date you submitted your application
-Full-time work experience means work experience in the employment position your employer is seeking approval for and which is set out in your job offer (meaning, the same occupation, employer and location, etc.) which must require at least 1,170 hours of paid work in a 12-month period and at least 30 hours of paid work per week in a 12-month period.
+Full-time work experience means at least 30 hours of paid work experience per week.
+Work experience in the employment position your employer is seeking approval for means you have worked full-time for at least 9 months in the same job (same employer, NOC code and location) that forms the basis of your application.
 Notes on calculating work experience
 Applicants can only use work experience that was completed by the time of application submission to demonstrate meeting the work experience requirements. Remember that you must also make sure you meet all stream criteria at the time you register your expression of interest. You should not apply if you do not meet all stream criteria.
 Cumulative work experience means the work experience you’ve gained must add up to at least the minimum amount over the required period. Breaks in employment over the required period are allowed.
@@ -603,10 +605,12 @@ a work permit support letter (if applicable)
 Once you have the necessary documentation, you must apply to IRCC for permanent residence within 6 months.
 Express Entry
 If you applied based on a TEER category 0, 1, 2 or 3 occupation (job offer and self-employed physician applicants included) and indicated in your application that you would like to be nominated through the IRCC Express Entry system, you must ensure that you meet the minimum eligibility criteria of a federal Express Entry stream and maintain a valid profile in the Express Entry system throughout the application period. If you no longer wish to be considered for nomination through the Express Entry system or if there are any changes to your Express Entry profile number, you must notify the OINP immediately in writing prior to nomination.
-If you choose this option and are approved, we will enter the details of your nomination into the IRCC Express Entry system. You will then receive a notification of your nomination through your IRCC online account. If you choose this option and let your Express Entry profile expire or lapse after nomination, you will need to start the OINP application process again — this includes creating an EOI and waiting to be invited to apply.
+If you choose this option and are approved, we will enter the details of your nomination into the IRCC Express Entry system. You will then receive a notification of your nomination through your IRCC online account.
 You have 30 calendar days to accept or refuse the nomination in the Express Entry system.
 If you accept, you will receive an additional 600 points for being nominated, which means you will receive an invitation to apply for permanent residence from IRCC in the next round of invitations.
 You then have 60 calendar days to submit your application to IRCC for permanent residence.
+Important: If you choose to pursue nomination through Express Entry, you must keep your Express Entry profile active until IRCC invites you to apply for permanent residence.
+If your profile becomes inactive or expires, you will no longer appear in IRCC's Express Entry pool and will not receive an invitation to apply for permanent residence. If you wish to pursue permanent residence through the OINP in the future, you must start the OINP process again by creating a new Expression of Interest (EOI) and waiting to receive an invitation to apply.
 Nomination conditions and post-nomination follow-ups
 A nomination from the OINP is subject to conditions and/or restrictions during the nomination period (that is, until your permanent residence application is approved or refused). The conditions and/or restrictions are stated in your nomination approval letter, and your nomination may be cancelled if any of the conditions are not met.
 If you are nominated based on an approved employment position, that employer approval and its employment position form the basis of your nomination. The OINP is unable to change an approved employment position after you are nominated.
@@ -628,5 +632,5 @@ Employer’s guide
 OINP representatives
 OINP document checklist
 Report fraud to the OINP
-Updated: October 20, 2026
+Updated: November 18, 2026
 Published: July 20, 2026

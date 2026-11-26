@@ -1,7 +1,42 @@
 {
   "classes": "wb-tables",
   "rounds": [
+    
     {
+    "drawNumber":"456",
+    "drawNumberURL":"<a href='/content/canadasite/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=456'>456</a>",
+    "drawDate":"2026-11-26",
+    "drawDateFull":"November 26, 2026",
+    "drawName":"STEM occupations, 2026-Version 3",
+    "drawSize":"600",
+    "drawCRS":"547",
+    "mitext":"<a href='/content/canadasite/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=456'>Invitations to apply for permanent residence under the Express Entry system #456</a>",
+    "DrawText1":"<a href='/content/canadasite/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=456'>See full text of Ministerial Instruction</a>",
+    "drawText2":"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program",
+    "drawDateTime":"November 26, 2026 at 12:52:00 UTC",
+    "drawCutOff":"December 02, 2025 at 16:52:51 UTC",
+    "drawDistributionAsOn":"November 22, 2026",
+    "dd1":"2,068",
+    "dd2":"43,754",
+    "dd3":"66,810",
+    "dd4":"11,199",
+    "dd5":"12,464",
+    "dd6":"15,296",
+    "dd7":"14,435",
+    "dd8":"13,416",
+    "dd9":"56,261",
+    "dd10":"12,147",
+    "dd11":"11,716",
+    "dd12":"10,611",
+    "dd13":"10,522",
+    "dd14":"11,265",
+    "dd15":"45,934",
+    "dd16":"16,627",
+    "dd17":"7,238",
+    "dd18":"238,692"
+  },
+      
+      {
     "drawNumber":"455",
     "drawNumberURL":"<a href='/content/canadasite/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=455'>455</a>",
     "drawDate":"2026-11-25",
